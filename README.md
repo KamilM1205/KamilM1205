@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KamilM1205, begginer programmer from Russian
 - 👀 I’m interested in gamedev and coding in rust, c++
-- 🌱 I’m currently learning c++, rust
+### My current tools
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,cmake,raspberrypi,linux,rust,github,gitlab,neovim&perline=5)](https://skillicons.dev)
 
 <!---
 KamilM1205/KamilM1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
