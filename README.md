@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KamilM1205, begginer programmer from Russian
-- 👀 I’m interested in gamedev and coding in rust, c++
+- 👀 I’m interested in gamedev and coding in rust, c++, go
 ### My current tools
 [![My Skills](https://skillicons.dev/icons?i=go,c,cpp,arduino,cmake,raspberrypi,linux,rust,github,gitlab,neovim&perline=6)](https://skillicons.dev)
 
